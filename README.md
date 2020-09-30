@@ -1,4 +1,4 @@
-Logr
+Logr - An amazinge project
 ====
  - - -
 
